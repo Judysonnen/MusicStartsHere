@@ -2,6 +2,8 @@
 
 An iOS app for memorizing staff notation and practicing music reading through lightweight drills and instant feedback.
 
+Published on the App Store as **Sonder 五线谱**.
+
 [App Store](https://apps.apple.com/cn/app/sonder-%E4%BA%94%E7%BA%BF%E8%B0%B1-%E7%AC%AC%E4%B8%80%E6%AD%A5%E6%98%AF%E8%AE%B0%E5%BF%86%E4%BA%94%E7%BA%BF%E8%B0%B1/id6757281903)
 
 <p align="center">

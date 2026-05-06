@@ -1,4 +1,0 @@
-Command line invocation:
-    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project MusicStartsHere.xcodeproj -scheme MusicStartsHere -destination "platform=iOS Simulator,name=iPhone 15" clean build
-
-2025-12-26 16:56:18.171 xcodebuild[321:11842784] [MT] IDERunDestination: Supported platforms for the buildables in the current scheme is empty.
